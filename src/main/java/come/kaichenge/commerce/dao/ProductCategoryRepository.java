@@ -1,6 +1,6 @@
-package come.kaichengecommerce.dao;
+package come.kaichenge.commerce.dao;
 
-import come.kaichengecommerce.entity.ProductCategory;
+import come.kaichenge.commerce.entity.ProductCategory;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 

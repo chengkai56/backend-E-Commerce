@@ -1,4 +1,4 @@
-package come.kaichengecommerce.entity;
+package come.kaichenge.commerce.entity;
 
 import lombok.Getter;
 import lombok.Setter;
