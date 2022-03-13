@@ -1,4 +1,4 @@
-package come.kaichenge.commerce;
+package come.kaicheng.ecommerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

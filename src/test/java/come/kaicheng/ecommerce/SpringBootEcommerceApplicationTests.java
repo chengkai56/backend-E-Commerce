@@ -1,4 +1,4 @@
-package come.kaichenge.commerce;
+package come.kaicheng.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

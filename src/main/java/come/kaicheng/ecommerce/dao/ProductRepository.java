@@ -1,6 +1,6 @@
-package come.kaichenge.commerce.dao;
+package come.kaicheng.ecommerce.dao;
 
-import come.kaichenge.commerce.entity.Product;
+import come.kaicheng.ecommerce.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ProductRepository extends JpaRepository<Product, Long> {
