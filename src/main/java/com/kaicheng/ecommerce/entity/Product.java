@@ -1,4 +1,4 @@
-package come.kaicheng.ecommerce.entity;
+package com.kaicheng.ecommerce.entity;
 
 import lombok.Data;
 import org.hibernate.annotations.CreationTimestamp;
@@ -50,5 +50,6 @@ public class Product {
     @Column(name = "last_updated")
     @UpdateTimestamp
     private Date lastUpdated;
+
 
 }
